@@ -1,0 +1,45 @@
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\Login System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\Login System.AssemblyInfoInputs.cache
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\Login System.AssemblyInfo.cs
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\Login System.csproj.CoreCompileInputs.cache
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\Login System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\Login System.RazorAssemblyInfo.cache
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\Login System.RazorAssemblyInfo.cs
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\Login System.csproj.AssemblyReference.cache
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\bin\Debug\net8.0\appsettings.json
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\bin\Debug\net8.0\Login System.staticwebassets.runtime.json
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\bin\Debug\net8.0\Login System.exe
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\bin\Debug\net8.0\Login System.deps.json
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\bin\Debug\net8.0\Login System.runtimeconfig.json
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\bin\Debug\net8.0\Login System.dll
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\bin\Debug\net8.0\Login System.pdb
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\bin\Debug\net8.0\Snappier.dll
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\staticwebassets\msbuild.Login System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\staticwebassets\msbuild.build.Login System.props
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Login System.props
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Login System.props
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\scopedcss\bundle\Login System.styles.css
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\scopedcss\projectbundle\Login System.bundle.scp.css
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\Login System.csproj.CopyComplete
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\Login System.dll
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\refint\Login System.dll
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\Login System.pdb
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\Login System.genruntimeconfig.cache
+C:\Users\Vishnu\Desktop\Projects\Login System\Login System\obj\Debug\net8.0\ref\Login System.dll

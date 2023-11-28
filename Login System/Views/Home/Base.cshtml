@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Login System";
+}
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>@ViewData["Title"]</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+        <link rel="stylesheet" href="/css/style.css">
+    </head>
+    <body>
+        <div class="text-center center-div" id="login">
+            <div class="container w-25 border py-5">
+                <div class="title -pb5">
+                    <h2 class="font-weight-bold">LOGIN SYSTEM</h2>
+                    <span>Log in for existing user</span>
+                @if (!string.IsNullOrEmpty(ViewBag.Logout))
+                {
+                    <div >
+                        @ViewBag.Logout
+                    </div>
+                }
+                </div>
+            
+
+
+            <form asp-controller="Home" asp-action="Login" method="post" class="pt-3">
+                <div class="form-group">
+                    <input type="email" class="form-control" placeholder="Email" name="email">
+
+                </div>
+                <div class="form-group">
+                    <input type="password" class="form-control" name="password" placeholder="Password">
+                    <small class="form-text text-muted text-left"><a href="/register">Register</a></small>
+                </div>
+                <button type="submit" class="btn btn-success rounded-pl">Submit</button>
+        </form>
+        </div>
+    </div>
+     <footer>
+        <p>&copy;2023 All Rights Reserved</p>
+    </footer
+    </body>
+</html>
